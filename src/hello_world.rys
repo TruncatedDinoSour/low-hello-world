@@ -1,0 +1,1 @@
+"Hello world\n" 1 writefd clear 0 exit
